@@ -26,9 +26,9 @@ print(person.age)
 // friend = nil
 // friend = "Swift"
 
-var friend : String? = "Apple"
+var friend : String? = "You"
     if let someone = friend {
-    print("Hello " + someone)
+    print("Hello " + someone + "!")
     }
     
 // Level Up
@@ -48,6 +48,51 @@ print(myBool)
 let six = 6
 let myBool2 = 5 >= six
 print(myBool2)
+
+// Is 7 equal to 7?
+let seven = 7
+let myBool3 = seven == 7
+print(myBool3)
+
+// Is 5 NOT equal to 7?
+let myBool4 = 5 != 7
+print(myBool4)
+
+//Phil is not speaking the truth
+let philsTruth = true
+let myTruth = !philsTruth
+print(myTruth)
+
+// Logical "And" True or False Bool
+let bool1 = true
+let bool2 = true
+let result = bool1 && bool2
+print(result)
+
+// Logical "Or" True or False Bool
+let bool3 = false
+let bool4 = true
+let result2 = bool3 || bool4
+print(result2)
+
+// What is a bool?
+let bool = true
+print(bool.hashValue)
+// Every bool is  0 or 1
+
+//Invert a Boolean value
+let myTrue = true
+let myFalse = !myTrue
+print(myFalse)
+
+
+
+
+
+
+
+
+
 
 
 
