@@ -1,4 +1,4 @@
-// THi, I'm David Venter and this is just me playing around with the new Swift language
+// Hi, I'm David Venter and this is just me playing around with the new Swift language
 
 let hello = "Hello Swift!"
 let compliment = "I'm so happy to be working with you!"
