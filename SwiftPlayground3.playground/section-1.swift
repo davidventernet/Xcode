@@ -28,4 +28,17 @@ let hisTruth = true
 let myTruth = !hisTruth
 print(myTruth)
 
-// AND
+// And: && = true if all are true
+
+let bool1 = true
+let bool2 = false
+let result = bool1 && bool2
+print(result)
+
+// Or: || = true if one or more is true
+
+let bool3 = true
+let bool4 = false
+let result2 = bool3 || bool4
+print(result2)
+
