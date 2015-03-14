@@ -1,4 +1,4 @@
-// Bool (Bolean: True/False, 0/1)
+// Bool (Boolean: True/False, 0/1)
 
 // True or False?
 
